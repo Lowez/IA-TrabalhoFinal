@@ -15,6 +15,7 @@ Este projeto implementa um algoritmo de Aprendizado por Reforço para um cenári
 ### Passos para Instalação
 
 1. Clone o repositório:
+   ```bash   
    git clone https://github.com/Lowez/IA-TrabalhoFinal.git
    cd IA-TrabalhoFinal
 
