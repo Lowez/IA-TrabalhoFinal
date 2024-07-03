@@ -1,9 +1,8 @@
-# Zombie Apocalypse RL
+# Escape Solaire, but don't forget your Estus. Reinforcement Learning
 
-Este projeto implementa um algoritmo de Aprendizado por Reforço para um cenário inspirado no jogo "The Last of Us". O objetivo do agente é sobreviver em um ambiente pós-apocalíptico, coletando suprimentos e evitando zumbis.
+Este projeto implementa um algoritmo de Aprendizado por Reforço para um cenário inspirado no jogo "Dark Souls" para o trabalho final de disciplina de Inteligência Artifical do curso de Ciências da Computação da Universidade Regional Integrada do Alto Uruguai e das Missões. O objetivo do agente é sobreviver em um ambiente ameaçador, coletando suprimentos (Estus Flask) e evitando os Hollows (inimigos).
 
-## Estrutura do Projeto
-
+O projeto utiliza a estrutura de dados *Q-table* do método *Q-learning* para o Aprendizado por Reforço do agente, junto de bibliotecas como *numpy*, para processar as matrizes, e *pygame*, para a visualização da execução e treinamento do agente.
 
 ## Instalação
 
